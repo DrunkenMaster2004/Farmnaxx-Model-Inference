@@ -1,0 +1,9 @@
+{
+  "farmers_dataset": {
+    "file_name": "dataset.json",
+    "format": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  }
+}
